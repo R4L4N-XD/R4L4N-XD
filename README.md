@@ -8,7 +8,7 @@
 ## Github Status
 ![R4L4N-XD's GitHub stats](https://github-readme-stats.vercel.app/api?username=R4L4N-XD&show_icons=true&theme=chartreuse-dark)  
 
-## ★ Github data ★
+##  Github Data 
 >
 > *Number of visitors*
 * **Visitor Github @R4L4N-XD**

@@ -18,3 +18,4 @@
 <p align="center">
 <a href="https://github.com/R4L4N-XD/spamriper"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=R4L4N-XD&repo=spamriper&theme=chartreuse-dark"></a>
 <a href="https://github.com/R4L4N-XD/Py-Fuscate"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=R4L4N-XD&repo=Py-Fuscate&theme=chartreuse-dark"></a>
+<a href="https://github.com/R4L4N-XD/iploc"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=R4L4N-XD&repo=iploc&theme=chartreuse-dark"></a>

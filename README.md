@@ -5,7 +5,6 @@
 
 </p>
 
-
 ![github stats](https://github-readme-stats.vercel.app/api?username=R4L4N-XD&show_icons=true&theme=dark)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4L4N-XD&layout=compact" alt="Top language">
@@ -17,5 +16,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Selamat+Menikmati-Muridku....!+)
 
 <p align="center">
-<a href="https://github.com/R4L4N-XD/spamriper"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=sakera&theme=chartreuse-dark"></a>
-<a href="https://github.com/R4L4N-XD/Py-Fuscate"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=elite&theme=chartreuse-dark"></a>
+<a href="https://github.com/R4L4N-XD/spamriper"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=R4L4N-XD&repo=spamriper&theme=chartreuse-dark"></a>
+<a href="https://github.com/R4L4N-XD/Py-Fuscate"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=R4L4N-XD&repo=Py-Fuscate&theme=chartreuse-dark"></a>
